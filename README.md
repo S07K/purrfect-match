@@ -1,4 +1,4 @@
-# https://s07k.github.io-purrfect-match
+# https://s07k.github.io/purrfect-match/
 
 A Purrfect Match Site
 
